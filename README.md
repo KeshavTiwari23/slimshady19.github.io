@@ -30,12 +30,20 @@
 |LL4|Bulb will glow when user will press option 1 |
 |LL4|Bulb will switch off when user will press off button |
 ### Low Level Requirements HL5 
+| ID  | Description |
+| ------------- | ------------- |
 |HL5|Fan will glow when user will press option 2 |
 |HL5|Fan will switch off when user will press off button |
 ### Low Level Requirements HL6
+| ID  | Description |
+| ------------- | ------------- |
 |HL6|Fridge will get on when user will press option 3 |
 |HL6|Fridge will switch off when user will press off button |
 ### Low Level Requirements HL7
+| ID  | Description |
+| ------------- | ------------- |
 |HL7|User can control voltage by pressing option 4 |
 ### Low Level Requirements HL8
+| ID  | Description |
+| ------------- | ------------- |
 |HL8|User can press the option 5 to check the status of the devices |
